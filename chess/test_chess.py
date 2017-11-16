@@ -288,8 +288,8 @@ def test_variation(game, moves, dates, lives, white):
     old_life = lives[choice]
     if correct:
         print("Correct!")
-        print(cm.new_half_life(old_date, old_life))
         dates[choice] = datetime.datetime.today()
+        lives[choice] = cm.new_half_life(old_date, old_life)
     else:
         print("Failure.")
 

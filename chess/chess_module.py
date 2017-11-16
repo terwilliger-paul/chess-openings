@@ -96,6 +96,11 @@ def dates_to_prob(dates, half_life):
     return output
 
 '''
+days_since = np.arange(0, 14, .01)
+dates = [datetime.datetime.today() - datetime.timedelta(d) for d in days_since]
+half_life = np.array([HALF_LIFE for _ in range(days_since.shape[0])])
+half_life = HALF_LIFE
+
 know_lines = time_to_know(days_since, half_life)
 prob_test = time_to_prob(days_since, half_life)
 
@@ -111,6 +116,9 @@ plt.plot(days_since, know_lines,
          days_since, prob_test,
          )
 plt.show()
+
+for e in zip(days_since, prob_test):
+    print e
 '''
 
 """
