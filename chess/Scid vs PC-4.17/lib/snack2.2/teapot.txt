@@ -1,0 +1,20 @@
+Package snack 2.2
+Meta as::author  {Kare Sjolander}
+Meta as::origin  http://www.speech.kth.se/snack/
+Meta category    Audio recording, processing, and playing
+Meta description The Snack sound extension adds commands to play and
+Meta description record audio. Snack supports in-memory sound objects,
+Meta description file based audio, and streaming audio, with background
+Meta description audio processing. It handles fileformats such as AIFF,
+Meta description AU, MP3, NIST/Sphere, and WAV. Snack is {extensible;}
+Meta description new commands and sound file formats can be added using
+Meta description the Snack C-library. Snack also does sound
+Meta description visualization, e.g. waveforms and spectrograms. The
+Meta description visualization canvas item types update in real time and
+Meta description can output postscript.
+Meta license     BSD
+Meta platform    win32-x86_64
+Meta require     {Tcl 8.4}
+Meta require     {Tk 8.4}
+Meta subject     sound audio wav aiff au mp3 visualization
+Meta summary     Recording, processing, and playing of audio

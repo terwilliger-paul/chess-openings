@@ -1,0 +1,12 @@
+This is Phalanx XXIV built on a 32-bit Cygwin system + GCC 4.8.3
+
+GCC -fprofile-generate with a benchmark run followed by -fprofile-use was used along with:
+
+-O3
+-mtune=core2
+-fprofile-use
+-fno-unroll-loops (smaller and a bit faster than the default)
+
+Benchmark test:
+
+Intel SU4100, Windows 7 (32bit) - 396000 nps

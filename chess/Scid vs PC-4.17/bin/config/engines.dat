@@ -1,0 +1,62 @@
+# Analysis Engines configuration for Scid vs. PC 4.17
+
+engine {
+  Name {Stockfish 8 OP2}
+  Cmd  engines/stockfish-8-win/Windows/stockfish_8_x64.exe
+  Args {}
+  Dir  .
+  Elo  3400
+  Time 1510770168
+  URL  {}
+  UCI  1
+  UCIoptions {{Threads 3} {Hash 4096} {Ponder false} {MultiPV 3} {{Skill Level} 20} {{Debug Log File} {}} {Contempt 0} {{Move Overhead} 30} {{Minimum Thinking Time} 20} {{Slow Mover} 89} {nodestime 0} {SyzygyPath <empty>} {SyzygyProbeDepth 1} {Syzygy50MoveRule true} {SyzygyProbeLimit 6}}
+}
+
+engine {
+  Name Stockfish
+  Cmd  ./engines/stockfish/stockfish_x64.exe
+  Args {}
+  Dir  .
+  Elo  3300
+  Time 1377328200
+  URL  {}
+  UCI  1
+  UCIoptions {}
+}
+
+engine {
+  Name Toga
+  Cmd  ./engines/toga/TogaII.exe
+  Args {}
+  Dir  ./engines/toga/
+  Elo  2600
+  Time 1366301460
+  URL  {}
+  UCI  1
+  UCIoptions {}
+}
+
+engine {
+  Name {Phalanx XXIV}
+  Cmd  ./engines/phalanx/phalanx.exe
+  Args {}
+  Dir  ./engines/phalanx/
+  Elo  2200
+  Time 1414241400
+  URL  {}
+  UCI  0
+  UCIoptions {}
+}
+
+engine {
+  Name Scidlet
+  Cmd  ./scidlet.exe
+  Args {}
+  Dir  .
+  Elo  0
+  Time 1414241700
+  URL  {}
+  UCI  0
+  UCIoptions {}
+}
+
