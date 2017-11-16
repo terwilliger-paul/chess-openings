@@ -241,7 +241,11 @@ def test_variation(game, moves, dates, lives, white):
         print("sum of probs:", np.sum(probs))
     else:
         choice = np.random.choice(range(len(moves)),
-                                  p=((1./probs) / np.sum(1./probs)))
+                                  p=((probs) / np.sum(probs)))
+    
+    print("probs")
+    print(probs)
+    print(probs[choice])
 
     test = moves[choice]
     current_pos = game
