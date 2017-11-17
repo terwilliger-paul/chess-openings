@@ -3,7 +3,7 @@
 # If you edit this file, you must preserve valid its Tcl
 # format or it will not set your Scid options properly.
 
-set boardSize 45
+set boardSize 50
 set boardStyle Merida1
 set language E
 set ::pgn::showColor 1
@@ -96,8 +96,8 @@ set analysis(logMax) 5000
 set analysis(logName) 1
 set analysis(maxPly) 0
 set analysis(lowPriority) 1
-set scidBooksDir {C:\Users\585191\Google Drive\Python\chess\Scid vs PC-4.17\bin\books}
-set scidBasesDir {C:\Users\585191\Google Drive\Python\chess\Scid vs PC-4.17\bin\bases}
+set scidBooksDir {C:\Users\585191\Desktop\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\books}
+set scidBasesDir {C:\Users\585191\Desktop\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\bases}
 set ::book::lastBook1 {}
 set ::book::lastBook2 {}
 set ::book::lastTuning {}
@@ -157,7 +157,7 @@ set ::commenteditor::State(markColor) purple
 set ::commenteditor::State(markType) +
 set boardfile_lite emptySquare
 set boardfile_dark emptySquare
-set ::file::finder::data(dir) {C:/Users/585191/Google Drive/Python/chess}
+set ::file::finder::data(dir) {C:\Users\585191}
 set ::file::finder::data(sort) name
 set ::file::finder::data(Scid) 1
 set ::file::finder::data(PGN) 1
