@@ -18,5 +18,70 @@
 [BlackType "human"]
 [mem_date "11/17/2017"]
 
-1. e4 e6 ( 1... c6 2. d4 d5 3. e5 Bf5 ( 3... c5 4. dxc5 Nc6 5. f4 e6 ( 5... f6 6. Bb5 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 6. Be3 d4 ( 6... Nh6 7. c3 Nf5 8. Bf2 d4 ( 8... g5 9. Bd3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 9. b4 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 7. Bf2 Bxc5 8. Nd2 Nge7 9. Bd3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 4. Nf3 e6 5. Be2 Nd7 ( 5... c5 6. Be3 cxd4 ( 6... Qb6 { Find a move here                                                 [%half_life 5.827047719404177] [%datetime 2017-11-16 16:09:01.688555] } ) 7. Nxd4 Ne7 8. c4 Nbc6 9. Qa4 dxc4 ( 9... a6 10. Na3 Qa5+ 11. Qxa5 Nxa5 12. O-O dxc4 13. Nxc4 Nxc4 14. Bxc4 Be4 15. Rac1 Bd5 16. Be2 Rc8 17. Rxc8+ Nxc8 18. Rc1 Kd7 { [%half_life 1.0] [%datetime 2017-11-16 11:00:46.085871] } ) 10. Na3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 6. O-O Ne7 7. Nbd2 Nc8 ( 7... Bg6 8. Nh4 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 7... h6 8. Re1 { [%half_life 1.0] [%datetime 2017-11-16 16:08:50.062401] } ) 8. Re1 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 1... c5 2. Nf3 d6 ( 2... e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 ( 5... Bb4 6. Nxc6 bxc6 7. Qd4 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 6. Be3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 ( 7... Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bxg5+ 14. Kb1 Ne5 15. Qh5 Qe7 16. Nxe6 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 8. Bh4 Qb6 { [%half_life 5.826058508660087] [%datetime 2017-11-16 16:09:22.168310] } ( 8... Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 b5 12. Bxf6 Nxf6 13. e5 Bb7 14. Qg3 dxe5 15. fxe5 Ne4 16. Nxe6 Qxc3 17. Nxg7+ Kf8 18. Ne6+ Ke8 19. Qxc3 Nxc3 20. Nc7+ Kf8 21. bxc3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ) ( 1... d5 2. exd5 Nf6 ( 2... Qxd5 3. Nc3 Qa5 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ( 3... Qd6 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 3... Qd8 { [%half_life 1.0] [%datetime 2017-11-16 11:01:48.758616] } ) ) 3. Bb5+ Bd7 { [%half_life 1.7985019922236065] [%datetime 2017-11-16 10:58:21.462472] } ) ( 1... e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 ( 4... Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 Qh4 10. a3 Bc5 11. g3 Bxf2+ 12. Qxf2 Qe4+ 13. Kd1 Qxh1 14. Nd2 Nc3+ 15. Kc2 Ne4 16. Nxe4 Qxe4+ 17. Bd3 Qg4 18. Bf5 Qh5 19. h4 f6 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8. Be2 Qg6 9. O-O { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 1... Nf6 2. e5 Nd5 3. d4 d6 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 1... g6 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 2. d4 d5 3. Nd2 Nf6 ( 3... c5 4. Ngf3 { [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) ( 3... dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5 8. Be3 cxd4 9. Bxd4 { Castle queenside, attack with two bishops on the kingside. Queen
-    belongs on e2                                                 [%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092] } ) 4. e5 Nfd7 5. Bd3 c5 6. c3 { [%half_life 1.0] [%datetime 2017-11-17 09:15:06.723534] } *
+1.e4 e6 
+    ( 1...c6 2.d4 d5 3.e5 Bf5 
+        ( 3...c5 4.dxc5 Nc6 5.f4 e6 
+            ( 5...f6 6.Bb5 {[%half_life 1.0] [%datetime 2016-11-16 
+            10:54:04.551092]} )
+        6.Be3 d4 
+            ( 6...Nh6 7.c3 Nf5 8.Bf2 d4 
+                ( 8...g5 9.Bd3 {[%half_life 1.0] [%datetime 2016-11-16 
+                10:54:04.551092]} )
+            9.b4 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]}
+            )
+        7.Bf2 Bxc5 8.Nd2 Nge7 9.Bd3 {[%half_life 1.0] [%datetime 
+        2016-11-16 10:54:04.551092]} )
+    4.Nf3 e6 5.Be2 Nd7 
+        ( 5...c5 6.Be3 cxd4 
+            ( 6...Qb6 {Find a move here [%half_life 9.368008494404801] 
+            [%datetime 2017-11-17 17:30:30.503393]} )
+        7.Nxd4 Ne7 8.c4 Nbc6 9.Qa4 dxc4 
+            ( 9...a6 10.Na3 Qa5+ 11.Qxa5 Nxa5 12.O-O dxc4 13.Nxc4 Nxc4 14.
+            Bxc4 Be4 15.Rac1 Bd5 16.Be2 Rc8 17.Rxc8+ Nxc8 18.Rc1 Kd7 {
+            [%half_life 1.0] [%datetime 2017-11-16 11:00:46.085871]} )
+        10.Na3 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]} )
+    6.O-O Ne7 7.Nbd2 Nc8 
+        ( 7...Bg6 8.Nh4 {[%half_life 1.0] [%datetime 2016-11-16 
+        10:54:04.551092]} )
+        ( 7...h6 8.Re1 {[%half_life 1.0] [%datetime 2017-11-16 
+        16:08:50.062401]} )
+    8.Re1 {[%half_life 1.0] [%datetime 2017-11-17 11:21:05.342672]} )
+    ( 1...c5 2.Nf3 d6 
+        ( 2...e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 
+            ( 5...Bb4 6.Nxc6 bxc6 7.Qd4 {[%half_life 1.0] [%datetime 
+            2016-11-16 10:54:04.551092]} )
+        6.Be3 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]} )
+    3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 
+        ( 7...Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 
+        13.f5 Bxg5+ 14.Kb1 Ne5 15.Qh5 Qe7 16.Nxe6 {[%half_life 1.0] 
+        [%datetime 2016-11-16 10:54:04.551092]} )
+    8.Bh4 Qb6 {[%half_life 5.826058508660087] [%datetime 2017-11-16 
+    16:09:22.168310]} 
+        ( 8...Be7 9.Qf3 Qc7 10.O-O-O Nbd7 11.Be2 b5 12.Bxf6 Nxf6 13.e5 Bb7
+        14.Qg3 dxe5 15.fxe5 Ne4 16.Nxe6 Qxc3 17.Nxg7+ Kf8 18.Ne6+ Ke8 19.
+        Qxc3 Nxc3 20.Nc7+ Kf8 21.bxc3 {[%half_life 1.0] [%datetime 
+        2016-11-16 10:54:04.551092]} )
+    )
+    ( 1...d5 2.exd5 Nf6 
+        ( 2...Qxd5 3.Nc3 Qa5 {[%half_life 1.0] [%datetime 2016-11-16 
+        10:54:04.551092]} 
+            ( 3...Qd6 {[%half_life 1.0] [%datetime 2016-11-16 
+            10:54:04.551092]} )
+            ( 3...Qd8 {[%half_life 1.0] [%datetime 2017-11-16 
+            11:01:48.758616]} )
+        )
+    3.Bb5+ Bd7 {[%half_life 1.7985019922236065] [%datetime 2017-11-16 
+    10:58:21.462472]} )
+    ( 1...e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 
+        ( 4...Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6 9.b3 Qh4 10.a3 
+        Bc5 11.g3 Bxf2+ 12.Qxf2 Qe4+ 13.Kd1 Qxh1 14.Nd2 Nc3+ 15.Kc2 Ne4 
+        16.Nxe4 Qxe4+ 17.Bd3 Qg4 18.Bf5 Qh5 19.h4 f6 {[%half_life 1.0] 
+        [%datetime 2016-11-16 10:54:04.551092]} )
+    5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 Qg6 9.O-O {[%half_life 1.0] 
+    [%datetime 2016-11-16 10:54:04.551092]} )
+    ( 1...Nf6 2.e5 Nd5 3.d4 d6 {[%half_life 1.0] [%datetime 2017-11-17 
+    17:31:31.113263]} )
+    ( 1...g6 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]} )
+2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 O-O 8.Bd3 Nbc6 9.Qh5
+Ng6 10.Nf3 Qc7 11.Be3 c4 12.Bxg6 fxg6 13.Qg4 *
+
