@@ -35,11 +35,8 @@
         ( 5...c5 6.Be3 cxd4 
             ( 6...Qb6 {Find a move here [%half_life 9.368008494404801] 
             [%datetime 2017-11-17 17:30:30.503393]} )
-        7.Nxd4 Ne7 8.c4 Nbc6 9.Qa4 dxc4 
-            ( 9...a6 10.Na3 Qa5+ 11.Qxa5 Nxa5 12.O-O dxc4 13.Nxc4 Nxc4 14.
-            Bxc4 Be4 15.Rac1 Bd5 16.Be2 Rc8 17.Rxc8+ Nxc8 18.Rc1 Kd7 {
-            [%half_life 1.0] [%datetime 2017-11-16 11:00:46.085871]} )
-        10.Na3 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]} )
+        7.Nxd4 Ne7 8.O-O Nbc6 9.Bb5 a6 10.Bxc6+ bxc6 11.c4 Qd7 12.Nc3 dxc4
+        13.Nxf5 Qxd1 14.Nxd1 )
     6.O-O Ne7 7.Nbd2 Nc8 
         ( 7...Bg6 8.Nh4 {[%half_life 1.0] [%datetime 2016-11-16 
         10:54:04.551092]} )
@@ -70,15 +67,30 @@
             ( 3...Qd8 {[%half_life 1.0] [%datetime 2017-11-16 
             11:01:48.758616]} )
         )
-    3.Bb5+ Bd7 {[%half_life 1.7985019922236065] [%datetime 2017-11-16 
-    10:58:21.462472]} )
+    3.Nf3 Nxd5 4.d4 Bg4 5.c4 Nb6 6.c5 Bxf3 
+        ( 6...Nd5 7.Qb3 Bc8 8.Bg5 h6 9.Bc4 c6 10.Bh4 g5 11.Bg3 Bg7 12.Nc3 
+        O-O 13.O-O-O )
+        ( 6...N6d7 7.Bc4 e6 8.Be3 {With plans to castle queenside 
+        (hopefully) and generate an attack} )
+    7.Qxf3 Nd5 8.Qb3 b6 9.Nc3 Nxc3 
+        ( 9...e6 10.Nxd5 exd5 
+            ( 10...Qxd5 11.Be3 Nd7 12.Bc4 Qxg2 13.O-O-O Be7 )
+        11.Qg3 {With plans of Bf4 attacking c7, O-O-O, and attacking the 
+        black king} )
+    10.bxc3 bxc5 
+        ( 10...e6 11.g3 Nd7 12.Bg2 Rb8 13.Qa4 bxc5 14.Be3 c4 15.Bc6 )
+    11.dxc5 e6 12.Be3 Be7 13.Rd1 Qc8 14.c6 )
     ( 1...e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 
         ( 4...Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6 9.b3 Qh4 10.a3 
         Bc5 11.g3 Bxf2+ 12.Qxf2 Qe4+ 13.Kd1 Qxh1 14.Nd2 Nc3+ 15.Kc2 Ne4 
         16.Nxe4 Qxe4+ 17.Bd3 Qg4 18.Bf5 Qh5 19.h4 f6 {[%half_life 1.0] 
         [%datetime 2016-11-16 10:54:04.551092]} )
-    5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 Qg6 9.O-O {[%half_life 1.0] 
-    [%datetime 2016-11-16 10:54:04.551092]} )
+    5.Be3 Qf6 
+        ( 5...Nxd4 6.Bxd4 Bxd4 7.Qxd4 Qf6 8.e5 Qb6 9.Qxb6 axb6 10.Nc3 f6 
+        11.Nd5 Kd8 12.exf6 Nxf6 13.Nxf6 gxf6 14.a4 Ra5 15.Bb5 c6 16.b4 Ra8
+        17.Bd3 )
+    6.c3 Nge7 7.Bc4 Ne5 8.Be2 Qg6 9.O-O {[%half_life 1.0] [%datetime 
+    2016-11-16 10:54:04.551092]} )
     ( 1...Nf6 2.e5 Nd5 3.d4 d6 {[%half_life 1.0] [%datetime 2017-11-17 
     17:31:31.113263]} )
     ( 1...g6 {[%half_life 1.0] [%datetime 2016-11-16 10:54:04.551092]} )
