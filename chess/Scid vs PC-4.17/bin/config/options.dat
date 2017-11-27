@@ -3,7 +3,7 @@
 # If you edit this file, you must preserve valid its Tcl
 # format or it will not set your Scid options properly.
 
-set boardSize 50
+set boardSize 40
 set boardStyle Merida1
 set language E
 set ::pgn::showColor 1
@@ -157,7 +157,7 @@ set ::commenteditor::State(markColor) purple
 set ::commenteditor::State(markType) +
 set boardfile_lite emptySquare
 set boardfile_dark emptySquare
-set ::file::finder::data(dir) {C:\Users\585191}
+set ::file::finder::data(dir) C:/Users/585191/Desktop/GitHub/chess-openings/chess
 set ::file::finder::data(sort) name
 set ::file::finder::data(Scid) 1
 set ::file::finder::data(PGN) 1
@@ -196,7 +196,7 @@ set ::tools::graphs::showpoints 1
 set maintFlag W
 set useGraphFigurine 0
 set photosMinimized 0
-set bookmarks(gamehistory) {{g {black_repertoire.pgn:  Black Repertoire - Black Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/black_repertoire.pgn} 1 1 {Black Repertoire} {Black Repertoire} 2017 BAH5CG5457HTK ? *} {g {white_repertoire.pgn:  White Repertoire - White Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/white_repertoire.pgn} 1 1 {White Repertoire} {White Repertoire} 2017 BAH5CG5457HTK ? *} {g {white_repertoire_d4.pgn:  White Repertoire - White Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/white_repertoire_d4.pgn} 1 1 {White Repertoire} {White Repertoire} 2017 BAH5CG5457HTK ? *} {g {black_repertoire_sicilian - preflight.pgn:  Black Repertoire - Black Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/black_repertoire_sicilian - preflight.pgn} 1 1 {Black Repertoire} {Black Repertoire} 2017 BAH5CG5457HTK ? *} {g {black_repertoire.pgn:  Black Repertoire - Black Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/Paul/Google Drive/Python/chess/black_repertoire.pgn} 1 1 {Black Repertoire} {Black Repertoire} 2017 BAH5CG5457HTK ? *}}
+set bookmarks(gamehistory) {{g {black_repertoire.pgn:  Black Repertoire - Black Repertoire, *,  BAH5CG5457HTK 2017} C:/Users/585191/Desktop/GitHub/chess-openings/chess/black_repertoire.pgn 1 1 {Black Repertoire} {Black Repertoire} 2017 BAH5CG5457HTK ? *} {g {white_repertoire.pgn:  White Repertoire - White Repertoire, *,  BAH5CG5457HTK 2017} C:/Users/585191/Desktop/GitHub/chess-openings/chess/white_repertoire.pgn 1 1 {White Repertoire} {White Repertoire} 2017 BAH5CG5457HTK ? *} {g {black_repertoire.pgn:  Black Repertoire - Black Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/black_repertoire.pgn} 1 1 {Black Repertoire} {Black Repertoire} 2017 BAH5CG5457HTK ? *} {g {white_repertoire.pgn:  White Repertoire - White Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/white_repertoire.pgn} 1 1 {White Repertoire} {White Repertoire} 2017 BAH5CG5457HTK ? *} {g {white_repertoire_d4.pgn:  White Repertoire - White Repertoire, *,  BAH5CG5457HTK 2017} {C:/Users/585191/Google Drive/Python/chess/white_repertoire_d4.pgn} 1 1 {White Repertoire} {White Repertoire} 2017 BAH5CG5457HTK ? *}}
 set playerInfoHistory {}
 set glistSize 15
 set glexport {g6: w13 W4  b13 B4  r3:m2 y4 s11 o4}
@@ -443,7 +443,7 @@ set initialDir(tex) {C:\Users\Paul}
 set initialDir(epd) {C:\Users\Paul}
 set initialDir(stm) {C:\Users\Paul}
 set initialDir(sso) {C:\Users\Paul}
-set initialDir(pgn) {C:/Users/585191/Google Drive/Python/chess}
+set initialDir(pgn) C:/Users/585191/Desktop/GitHub/chess-openings/chess
 set initialDir(report) {C:\Users\Paul}
 set initialDir(tablebase1) {}
 set initialDir(tablebase2) {}
