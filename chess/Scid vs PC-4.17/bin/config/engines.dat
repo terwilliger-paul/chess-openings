@@ -1,12 +1,24 @@
 # Analysis Engines configuration for Scid vs. PC 4.17
 
 engine {
+  Name {Stockfish 9}
+  Cmd  engines/stockfish-9-win/Windows/stockfish_9_x64.exe
+  Args {}
+  Dir  .
+  Elo  0
+  Time 1522954297
+  URL  {}
+  UCI  1
+  UCIoptions {{Threads 3} {Hash 4096} {Ponder false} {MultiPV 1} {{Skill Level} 20} {{Debug Log File} {}} {Contempt 20} {{Move Overhead} 30} {{Minimum Thinking Time} 20} {{Slow Mover} 89} {nodestime 0} {SyzygyPath <empty>} {SyzygyProbeDepth 1} {Syzygy50MoveRule true} {SyzygyProbeLimit 6}}
+}
+
+engine {
   Name {Stockfish 8 OP2}
   Cmd  engines/stockfish-8-win/Windows/stockfish_8_x64.exe
   Args {}
   Dir  .
   Elo  3400
-  Time 1510957974
+  Time 1521388643
   URL  {}
   UCI  1
   UCIoptions {{Threads 3} {Hash 4096} {Ponder false} {MultiPV 3} {{Skill Level} 20} {{Debug Log File} {}} {Contempt 0} {{Move Overhead} 30} {{Minimum Thinking Time} 20} {{Slow Mover} 89} {nodestime 0} {SyzygyPath <empty>} {SyzygyProbeDepth 1} {Syzygy50MoveRule true} {SyzygyProbeLimit 6}}

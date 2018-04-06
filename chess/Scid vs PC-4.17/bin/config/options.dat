@@ -89,15 +89,15 @@ set gameInfo(showFEN) 0
 set gameInfo(showButtons) 1
 set gameInfo(showTB) 2
 set analysis(mini) 0
-set engines(F2) 1
-set engines(F3) 2
+set engines(F2) 2
+set engines(F3) 3
 set engines(F4) {}
 set analysis(logMax) 5000
 set analysis(logName) 1
 set analysis(maxPly) 0
 set analysis(lowPriority) 1
-set scidBooksDir {C:\Users\585191\Desktop\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\books}
-set scidBasesDir {C:\Users\585191\Desktop\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\bases}
+set scidBooksDir {C:\Users\585191\Documents\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\books}
+set scidBasesDir {C:\Users\585191\Documents\GitHub\chess-openings\chess\Scid vs PC-4.17\bin\bases}
 set ::book::lastBook1 {}
 set ::book::lastBook2 {}
 set ::book::lastTuning {}
@@ -169,7 +169,7 @@ set FilterStepMoves 1
 set FilterMaxElo 2800
 set FilterMinElo 2100
 set FilterStepElo 100
-set FilterMaxYear 2017
+set FilterMaxYear 2018
 set FilterMinYear 1995
 set FilterStepYear 1
 set FilterGuessELO 1
@@ -216,6 +216,8 @@ set winWidth(.analysisWin5)  44
 set winHeight(.analysisWin5) 8
 set winWidth(.baseWin)  310
 set winHeight(.baseWin) 110
+set winWidth(.bdOptions)  360
+set winHeight(.bdOptions) 658
 set winWidth(.ccWindow)  10
 set winHeight(.ccWindow) 20
 set winWidth(.commentWin)  40
@@ -232,8 +234,8 @@ set winWidth(.pgnWin)  65
 set winHeight(.pgnWin) 20
 set winWidth(.playerInfoWin)  45
 set winHeight(.playerInfoWin) 20
-set winWidth(.setup)  621
-set winHeight(.setup) 676
+set winWidth(.setup)  461
+set winHeight(.setup) 476
 set winWidth(.spellcheckWin)  55
 set winHeight(.spellcheckWin) 25
 set winWidth(.statsWin)  60
@@ -247,13 +249,15 @@ set winX(.)  -1
 set winY(.)  -1
 set winX(.baseWin)  -1
 set winY(.baseWin)  -1
+set winX(.bdOptions)  24
+set winY(.bdOptions)  1
 set winX(.commentWin)  -1
 set winY(.commentWin)  -1
 set winX(.crosstabWin)  -1
 set winY(.crosstabWin)  -1
 set winX(.ecograph)  -1
 set winY(.ecograph)  -1
-set winX(.enginelist)  102
+set winX(.enginelist)  190
 set winY(.enginelist)  79
 set winX(.enginelog)  206
 set winY(.enginelog)  183
@@ -324,7 +328,7 @@ set winY(.treeWin9)  -1
 set winX(.uciConfigWin)  161
 set winY(.uciConfigWin)  -8
 
-set analysisCommand engines/stockfish-8-win/Windows/stockfish_8_x64.exe
+set analysisCommand engines/stockfish-9-win/Windows/stockfish_9_x64.exe
 
 set lite {#f3f3f3}
 set dark {#7389b6}
